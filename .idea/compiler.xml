@@ -19,17 +19,17 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="api" target="11" />
-      <module name="common" target="11" />
-      <module name="coupon-service" target="11" />
-      <module name="goods-service" target="11" />
-      <module name="order-service" target="11" />
-      <module name="order-web" target="11" />
-      <module name="pay-service" target="11" />
-      <module name="pay-web" target="11" />
-      <module name="pojo" target="11" />
-      <module name="shop-parent" target="11" />
-      <module name="user-service" target="11" />
+      <module name="api" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="coupon-service" target="1.8" />
+      <module name="goods-service" target="1.8" />
+      <module name="order-service" target="1.8" />
+      <module name="order-web" target="1.8" />
+      <module name="pay-service" target="1.8" />
+      <module name="pay-web" target="1.8" />
+      <module name="pojo" target="1.8" />
+      <module name="shop-parent" target="1.8" />
+      <module name="user-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
