@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Description: 商品服务启动类
  * @Date: 2021/5/3 18:01
  **/
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = {"com.simpleShop.mapper","com.goods.service.impl"})
 @EnableDubboConfiguration
 public class IGoodsServiceApplication {
     public static void main(String[] args) {

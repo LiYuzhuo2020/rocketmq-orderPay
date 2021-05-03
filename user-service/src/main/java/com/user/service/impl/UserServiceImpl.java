@@ -3,7 +3,7 @@ package com.user.service.impl;
 import com.alibaba.dubbo.config.annotation.Service;
 import com.common.result.Result;
 import com.order.service.IUserService;
-import com.simpleShop.mapper.UserMapper;
+import com.user.mapper.UserMapper;
 import com.simpleShop.pojo.User;
 import com.simpleShop.pojo.UserAmountLog;
 import com.simpleShop.pojo.UserExample;
