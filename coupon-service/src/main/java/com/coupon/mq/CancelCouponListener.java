@@ -1,6 +1,6 @@
 package com.coupon.mq;
 
-import com.simpleShop.mapper.CouponMapper;
+import com.coupon.mapper.CouponMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.rocketmq.common.message.MessageExt;
 import org.apache.rocketmq.spring.annotation.MessageModel;
